@@ -1,0 +1,4 @@
+This is basiccally the application of the media queries feature of CSS3 to enable the site to adapt into different conditions such as screen resolution.
+
+I removed the header and body tag to release the Navigation bar/panel from the head/body, Changed the colors of some of the elements using the child selector and other necessary things to make the site responsive and professional!
+Check the before after html-css codes to see the differences

@@ -1,0 +1,6 @@
+Note: Before, Both Horizontal and vertical bars showed up as all the contents didn't fit neither horizontally or vertically.
+But, Only Vertical bar showed up as things improved and all the contents fitted at least horizontally.
+
+I only edited the CSS code and changed the background color and introduced fluid measurements by replacing some of the hardcoded values with percentages.
+I also changed or introduced display property in places where it was necessary to make the site responsive.
+You can check out the before-after css codes to see the differences yourself

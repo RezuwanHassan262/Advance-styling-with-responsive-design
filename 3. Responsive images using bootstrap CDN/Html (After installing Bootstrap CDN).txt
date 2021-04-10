@@ -1,0 +1,6 @@
+<div>
+   <img src = "https://i.pinimg.com/originals/98/e8/24/98e824af61d2bfde313b023a906e6929.png" class="img-responsive img-circle">
+</div>
+
+<!-- responsive, rounded, circle, thumbnail -->
+
